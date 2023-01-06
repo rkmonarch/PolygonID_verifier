@@ -1,7 +1,5 @@
 # Implement an ERC20 zk airdrop in 20 minutes with Polygon ID
 
-Tutorial: https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/
-
 This tutorial uses [Hardhat](https://hardhat.org/) as a development environment and Polygon Mumbai testnet as the network.
 
 ## Polygon ID Wallet setup
